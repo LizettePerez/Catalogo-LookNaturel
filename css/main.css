@@ -197,6 +197,10 @@ main {
     font-size: 1rem;
 }
 
+.producto-precio {
+    font-size: 0.85rem;
+}
+
 .producto-agregar {
     border: 0;
     background-color: var(--clr-white);
