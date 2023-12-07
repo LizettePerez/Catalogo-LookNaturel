@@ -14,6 +14,13 @@ const tituloPrincipal = document.querySelector("#titulo-principal");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numerito = document.querySelector("#numerito");
 
+const myModal = document.getElementById('myModal')
+const myInput = document.getElementById('myInput')
+
+myModal.addEventListener('shown.bs.modal', () => {
+    myInput.focus()
+})
+
 
 botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
@@ -33,7 +40,7 @@ function cargarProductos(productosElegidos) {
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
                 <p class="producto-precio">$${producto.precio.toLocaleString('es-CL')}</p>
-                <button class="producto-agregar" id="${producto.id}">Mostrar Más</button>
+                <button class="producto-agregar" id="${producto.id}" data-bs-toggle="modal" data-bs-target="#exampleModal">Mostrar Más</button>
             </div>
         `;
 

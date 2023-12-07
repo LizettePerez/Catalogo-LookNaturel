@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-main: #4b33a8;
-    --clr-main-light: #785ce9;
+    --clr-main: #00A7AC;
+    --clr-main-light: #8ACCD0;
+    --clr-dark-pink: #FAC5BD;
+    --clr-pink: #F0D8D3;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
@@ -59,6 +61,8 @@ aside {
 .logo {
     font-weight: 400;
     font-size: 1.3rem;
+    width: 10rem;
+    margin: 0 auto;
 }
 
 .menu {
@@ -137,6 +141,20 @@ aside {
 .texto-footer {
     color: var(--clr-main-light);
     font-size: .85rem;
+}
+
+.texto-footer-link {
+    color: var(--clr-white);
+    font-size: .85rem;
+}
+
+.texto-footer-link:hover {
+    color: var(--clr-pink);
+    font-size: .85rem;
+}
+
+footer p {
+    margin-top: 20px;
 }
 
 main {

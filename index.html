@@ -8,15 +8,17 @@
     <title>LookNaturel</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/main.css">
 </head>
 
 <body>
 
+
     <div class="wrapper">
         <header class="header-mobile">
-            <h1 class="logo">LookNaturel</h1>
+            <img src="./img/logo-borde.png" alt="logo" class="logo">
             <button class="open-menu" id="open-menu">
                 <i class="bi bi-list"></i>
             </button>
@@ -26,7 +28,8 @@
                 <i class="bi bi-x"></i>
             </button>
             <header>
-                <h1 class="logo">LookNaturel</h1>
+                <!-- <h1 class="logo">LookNaturel</h1> -->
+                <img src="./img/logo-borde.png" alt="logo" class="logo">
             </header>
             <nav>
                 <ul class="menu">
@@ -47,6 +50,12 @@
                 </ul>
             </nav>
             <footer>
+                <a href="https://www.instagram.com/looknaturel/" target="_blank" class="texto-footer-link"> <i
+                        class="texto-footer-link bi bi-instagram"></i> LookNaturel</a><br>
+                <a href="https://www.tiktok.com/@looknaturel" target="_blank" class="texto-footer-link"> <i
+                        class="texto-footer-link bi bi-tiktok"></i> LookNaturel</a><br>
+                <a href="https://walink.co/b30bb9" target="_blank" class="texto-footer-link"> <i
+                        class="texto-footer-link bi bi-tiktok"></i> +56 9 7446 1819</a>
                 <p class="texto-footer">© 2023 LookNaturel</p>
             </footer>
         </aside>
@@ -56,20 +65,45 @@
                 <!-- Esto se va a rellenar con JS -->
             </div>
         </main>
-    </div>
-    <!-- Modal para mostrar más detalles del producto -->
-    <div class="modal fade" id="modalProducto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Detalles del Producto</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <!-- Contenido del producto se insertará aquí dinámicamente con JavaScript -->
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="./img/pupilaPequeña/Angeles N/AngelesNBlue.webp" class="d-block w-100"
+                                        alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/pupilaPequeña/Angeles N/AngelesNGray.webp" class="d-block w-100"
+                                        alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/pupilaPequeña/Angeles N/AngelesNIceGray.webp" class="d-block w-100"
+                                        alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button"
+                                data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button"
+                                data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -77,6 +111,10 @@
 
 
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+
     <script src="./js/main.js"></script>
     <script src="./js/menu.js"></script>
 </body>
