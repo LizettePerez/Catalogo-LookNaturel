@@ -216,6 +216,12 @@ main {
 
 /** CARRITO **/
 
+.producto-titulo-carrusel {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: var(--clr-main);
+}
+
 .contenedor-carrito {
     display: flex;
     flex-direction: column;
