@@ -1,0 +1,102 @@
+[
+    {
+        "id": "angelesN-blue",
+        "titulo": "Angeles N Blue",
+        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "angelesN-gray",
+        "titulo": "Angeles N Gray",
+        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "angelesN-brown",
+        "titulo": "Angeles N Brown",
+        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "angelesN-violet",
+        "titulo": "Angeles N Violet",
+        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNViolet.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "angelesN-IceGray",
+        "titulo": "Angeles N Ice Gray",
+        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNIceGray.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "avatar-Blue",
+        "titulo": "Avatar Blue",
+        "imagen": "../img/pupilaPequeña/Avatar/AvatarBlue.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "avatar-Gray",
+        "titulo": "Avatar Gray",
+        "imagen": "../img/pupilaPequeña/Avatar/AvatarGray.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "avatar-Brown",
+        "titulo": "Avatar Brown",
+        "imagen": "../img/pupilaPequeña/Avatar/AvatarBrown.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "avatar-Green",
+        "titulo": "Avatar Green",
+        "imagen": "../img/pupilaPequeña/Avatar/AvatarGreen.webp",
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta 01",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 1000
+    }
+]
