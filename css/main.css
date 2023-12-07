@@ -201,6 +201,20 @@ main {
     font-size: 0.85rem;
 }
 
+.producto-stock {
+    text-transform: capitalize;
+    font-size: 0.85rem;
+}
+
+.disponible {
+    color: var(--clr-white);
+}
+
+.agotado {
+    text-decoration: line-through;
+    color: var(--clr-main-light);
+}
+
 .producto-agregar {
     border: 0;
     background-color: var(--clr-white);

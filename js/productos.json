@@ -4,120 +4,204 @@
         "titulo": "Angeles N Blue",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBlue_01.webp",
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBlue_03.webp",
             "img2": "../img/pupilaPequeña/Angeles N/AngelesNBlue_02.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBlue_03.webp"
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBlue_01.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "angelesN-gray",
         "titulo": "Angeles N Gray",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNIceGray.webp"
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNGray_02.jpg",
+            "img2": "../img/pupilaPequeña/Angeles N/AngelesNGray_01.png",
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNGray_03.png"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "agotado"
     },
     {
         "id": "angelesN-brown",
         "titulo": "Angeles N Brown",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp"
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBrown_01.webp",
+            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBrown_02.webp",
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBrown_03.webp",
+            "img4": "../img/pupilaPequeña/Angeles N/AngelesNBrown_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "angelesN-violet",
         "titulo": "Angeles N Violet",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNViolet.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp"
-
-            
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNViolet_01.webp",
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNViolet_03.jpg",
+            "img4": "../img/pupilaPequeña/Angeles N/AngelesNViolet_04.jpg"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "angelesN-IceGray",
         "titulo": "Angeles N Ice Gray",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNIceGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_04.jpg",
+            "img2": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_02.webp",
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_03.webp",
+            "img4": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_01.webp"
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "avatar-Blue",
         "titulo": "Avatar Blue",
         "imagen": "../img/pupilaPequeña/Avatar/AvatarBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Avatar/AvatarBlue_01.webp",
+            "img3": "../img/pupilaPequeña/Avatar/AvatarBlue_03.webp",
+            "img4": "../img/pupilaPequeña/Avatar/AvatarBlue_04.webp",
+            "img5": "../img/pupilaPequeña/Avatar/AvatarBlue_05.webp"
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "avatar-Gray",
         "titulo": "Avatar Gray",
         "imagen": "../img/pupilaPequeña/Avatar/AvatarGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Avatar/AvatarGray_01.webp",
+            "img2": "../img/pupilaPequeña/Avatar/AvatarGray_02.webp",
+            "img3": "../img/pupilaPequeña/Avatar/AvatarGray_03.webp",
+            "img4": "../img/pupilaPequeña/Avatar/AvatarGray_04.webp"
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "avatar-Brown",
         "titulo": "Avatar Brown",
         "imagen": "../img/pupilaPequeña/Avatar/AvatarBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Avatar/AvatarBrown_01.webp",
+            "img2": "../img/pupilaPequeña/Avatar/AvatarBrown_02.webp",
+            "img3": "../img/pupilaPequeña/Avatar/AvatarBrown_03.webp",
+            "img4": "../img/pupilaPequeña/Avatar/AvatarBrown_04.webp",
+            "img5": "../img/pupilaPequeña/Avatar/AvatarBrown_05.webp"
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "avatar-Green",
         "titulo": "Avatar Green",
         "imagen": "../img/pupilaPequeña/Avatar/AvatarGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Avatar/AvatarGreen_01.webp",
+            "img2": "../img/pupilaPequeña/Avatar/AvatarGreen_02.webp",
+            "img3": "../img/pupilaPequeña/Avatar/AvatarGreen_03.webp",
+            "img4": "../img/pupilaPequeña/Avatar/AvatarGreen_04.webp",
+            "img5": "../img/pupilaPequeña/Avatar/AvatarGreen_05.webp",
+            "img6": "../img/pupilaPequeña/Avatar/AvatarGreen_06.webp"
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
         },
-        "precio": 25000
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "cloud-Gray",
+        "titulo": "Cloud Gray",
+        "imagen": "../img/pupilaRegular/Cloud/CloudGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudGray_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudGray_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudGray_03.webp",
+            "img4": "../img/pupilaRegular/Cloud/CloudGray_04.webp",
+            "img5": "../img/pupilaRegular/Cloud/CloudGray_05.webp"
+        },
         "categoria": {
             "nombre": "Pupila regular",
             "id": "pupila-regular"
         },
-        "precio": 1000
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Blue",
+        "titulo": "Cloud Blue",
+        "imagen": "../img/pupilaRegular/Cloud/CloudBlue_02.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudBlue_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudBlue.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudBlue_03.webp",
+            "img4": "../img/pupilaRegular/Cloud/CloudBlue_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Green",
+        "titulo": "Cloud Green",
+        "imagen": "../img/pupilaRegular/Cloud/CloudGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudGreen_01.jpg",
+            "img2": "../img/pupilaRegular/Cloud/CloudGreen_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudGreen_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
     },
     {
         "id": "camiseta-01",

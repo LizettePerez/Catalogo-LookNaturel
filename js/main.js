@@ -89,6 +89,7 @@ function cargarProductos(productosElegidos) {
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
                 <p class="producto-precio">$${producto.precio.toLocaleString('es-CL')}</p>
+                <p class="producto-stock ${producto.stock === 'disponible' ? 'disponible' : 'agotado'}">${producto.stock}</p>
                 <button class="producto-agregar" data-bs-toggle="modal" data-bs-target="#exampleModal" data-producto-index="${index}">Mostrar Más</button>
 
                 </div>
