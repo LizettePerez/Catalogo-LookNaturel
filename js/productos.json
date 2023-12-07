@@ -4,9 +4,9 @@
         "titulo": "Angeles N Blue",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNIceGray.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp"
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBlue_01.webp",
+            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBlue_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -48,6 +48,11 @@
         "id": "angelesN-violet",
         "titulo": "Angeles N Violet",
         "imagen": "../img/pupilaPequeña/Angeles N/AngelesNViolet.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp"
+
+            
+        },
         "categoria": {
             "nombre": "Pupila pequeña",
             "id": "pupila-pequeña"
