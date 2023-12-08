@@ -2,11 +2,11 @@
     {
         "id": "angelesN-blue",
         "titulo": "Angeles N Blue",
-        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBlue.webp",
+        "imagen": "../img/pupilaPequeña/AngelesNBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBlue_03.webp",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBlue_02.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBlue_01.webp"
+            "img1": "../img/pupilaPequeña/AngelesNBlue_03.webp",
+            "img2": "../img/pupilaPequeña/AngelesNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/AngelesNBlue_01.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -18,11 +18,11 @@
     {
         "id": "angelesN-gray",
         "titulo": "Angeles N Gray",
-        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNGray.webp",
+        "imagen": "../img/pupilaPequeña/AngelesNGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNGray_02.jpg",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNGray_01.png",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNGray_03.png"
+            "img1": "../img/pupilaPequeña/AngelesNGray_02.jpg",
+            "img2": "../img/pupilaPequeña/AngelesNGray_01.png",
+            "img3": "../img/pupilaPequeña/AngelesNGray_03.png"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -34,12 +34,12 @@
     {
         "id": "angelesN-brown",
         "titulo": "Angeles N Brown",
-        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNBrown.webp",
+        "imagen": "../img/pupilaPequeña/AngelesNBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNBrown_01.webp",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNBrown_02.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNBrown_03.webp",
-            "img4": "../img/pupilaPequeña/Angeles N/AngelesNBrown_04.webp"
+            "img1": "../img/pupilaPequeña/AngelesNBrown_01.webp",
+            "img2": "../img/pupilaPequeña/AngelesNBrown_02.webp",
+            "img3": "../img/pupilaPequeña/AngelesNBrown_03.webp",
+            "img4": "../img/pupilaPequeña/AngelesNBrown_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -51,11 +51,11 @@
     {
         "id": "angelesN-violet",
         "titulo": "Angeles N Violet",
-        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNViolet.webp",
+        "imagen": "../img/pupilaPequeña/AngelesNViolet.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNViolet_01.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNViolet_03.jpg",
-            "img4": "../img/pupilaPequeña/Angeles N/AngelesNViolet_04.jpg"
+            "img1": "../img/pupilaPequeña/AngelesNViolet_01.webp",
+            "img3": "../img/pupilaPequeña/AngelesNViolet_03.jpg",
+            "img4": "../img/pupilaPequeña/AngelesNViolet_04.jpg"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -67,12 +67,12 @@
     {
         "id": "angelesN-IceGray",
         "titulo": "Angeles N Ice Gray",
-        "imagen": "../img/pupilaPequeña/Angeles N/AngelesNIceGray.webp",
+        "imagen": "../img/pupilaPequeña/AngelesNIceGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_04.jpg",
-            "img2": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_02.webp",
-            "img3": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_03.webp",
-            "img4": "../img/pupilaPequeña/Angeles N/AngelesNIceGray_01.webp"
+            "img1": "../img/pupilaPequeña/AngelesNIceGray_04.jpg",
+            "img2": "../img/pupilaPequeña/AngelesNIceGray_02.webp",
+            "img3": "../img/pupilaPequeña/AngelesNIceGray_03.webp",
+            "img4": "../img/pupilaPequeña/AngelesNIceGray_01.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -84,12 +84,12 @@
     {
         "id": "avatar-Blue",
         "titulo": "Avatar Blue",
-        "imagen": "../img/pupilaPequeña/Avatar/AvatarBlue.webp",
+        "imagen": "../img/pupilaPequeña/AvatarBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Avatar/AvatarBlue_01.webp",
-            "img3": "../img/pupilaPequeña/Avatar/AvatarBlue_03.webp",
-            "img4": "../img/pupilaPequeña/Avatar/AvatarBlue_04.webp",
-            "img5": "../img/pupilaPequeña/Avatar/AvatarBlue_05.webp"
+            "img1": "../img/pupilaPequeña/AvatarBlue_01.webp",
+            "img3": "../img/pupilaPequeña/AvatarBlue_03.webp",
+            "img4": "../img/pupilaPequeña/AvatarBlue_04.webp",
+            "img5": "../img/pupilaPequeña/AvatarBlue_05.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -101,12 +101,12 @@
     {
         "id": "avatar-Gray",
         "titulo": "Avatar Gray",
-        "imagen": "../img/pupilaPequeña/Avatar/AvatarGray.webp",
+        "imagen": "../img/pupilaPequeña/AvatarGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Avatar/AvatarGray_01.webp",
-            "img2": "../img/pupilaPequeña/Avatar/AvatarGray_02.webp",
-            "img3": "../img/pupilaPequeña/Avatar/AvatarGray_03.webp",
-            "img4": "../img/pupilaPequeña/Avatar/AvatarGray_04.webp"
+            "img1": "../img/pupilaPequeña/AvatarGray_01.webp",
+            "img2": "../img/pupilaPequeña/AvatarGray_02.webp",
+            "img3": "../img/pupilaPequeña/AvatarGray_03.webp",
+            "img4": "../img/pupilaPequeña/AvatarGray_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -118,13 +118,13 @@
     {
         "id": "avatar-Brown",
         "titulo": "Avatar Brown",
-        "imagen": "../img/pupilaPequeña/Avatar/AvatarBrown.webp",
+        "imagen": "../img/pupilaPequeña/AvatarBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Avatar/AvatarBrown_01.webp",
-            "img2": "../img/pupilaPequeña/Avatar/AvatarBrown_02.webp",
-            "img3": "../img/pupilaPequeña/Avatar/AvatarBrown_03.webp",
-            "img4": "../img/pupilaPequeña/Avatar/AvatarBrown_04.webp",
-            "img5": "../img/pupilaPequeña/Avatar/AvatarBrown_05.webp"
+            "img1": "../img/pupilaPequeña/AvatarBrown_01.webp",
+            "img2": "../img/pupilaPequeña/AvatarBrown_02.webp",
+            "img3": "../img/pupilaPequeña/AvatarBrown_03.webp",
+            "img4": "../img/pupilaPequeña/AvatarBrown_04.webp",
+            "img5": "../img/pupilaPequeña/AvatarBrown_05.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -136,14 +136,14 @@
     {
         "id": "avatar-Green",
         "titulo": "Avatar Green",
-        "imagen": "../img/pupilaPequeña/Avatar/AvatarGreen.webp",
+        "imagen": "../img/pupilaPequeña/AvatarGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Avatar/AvatarGreen_01.webp",
-            "img2": "../img/pupilaPequeña/Avatar/AvatarGreen_02.webp",
-            "img3": "../img/pupilaPequeña/Avatar/AvatarGreen_03.webp",
-            "img4": "../img/pupilaPequeña/Avatar/AvatarGreen_04.webp",
-            "img5": "../img/pupilaPequeña/Avatar/AvatarGreen_05.webp",
-            "img6": "../img/pupilaPequeña/Avatar/AvatarGreen_06.webp"
+            "img1": "../img/pupilaPequeña/AvatarGreen_01.webp",
+            "img2": "../img/pupilaPequeña/AvatarGreen_02.webp",
+            "img3": "../img/pupilaPequeña/AvatarGreen_03.webp",
+            "img4": "../img/pupilaPequeña/AvatarGreen_04.webp",
+            "img5": "../img/pupilaPequeña/AvatarGreen_05.webp",
+            "img6": "../img/pupilaPequeña/AvatarGreen_06.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -155,13 +155,13 @@
     {
         "id": "cloud-Gray",
         "titulo": "Cloud Gray",
-        "imagen": "../img/pupilaRegular/Cloud/CloudGray.webp",
+        "imagen": "../img/pupilaRegular/CloudGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudGray_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudGray_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudGray_03.webp",
-            "img4": "../img/pupilaRegular/Cloud/CloudGray_04.webp",
-            "img5": "../img/pupilaRegular/Cloud/CloudGray_05.webp"
+            "img1": "../img/pupilaRegular/CloudGray_01.webp",
+            "img2": "../img/pupilaRegular/CloudGray_02.webp",
+            "img3": "../img/pupilaRegular/CloudGray_03.webp",
+            "img4": "../img/pupilaRegular/CloudGray_04.webp",
+            "img5": "../img/pupilaRegular/CloudGray_05.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -173,12 +173,12 @@
     {
         "id": "cloud-Blue",
         "titulo": "Cloud Blue",
-        "imagen": "../img/pupilaRegular/Cloud/CloudBlue_02.webp",
+        "imagen": "../img/pupilaRegular/CloudBlue_02.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudBlue_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudBlue.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudBlue_03.webp",
-            "img4": "../img/pupilaRegular/Cloud/CloudBlue_04.webp"
+            "img1": "../img/pupilaRegular/CloudBlue_01.webp",
+            "img2": "../img/pupilaRegular/CloudBlue.webp",
+            "img3": "../img/pupilaRegular/CloudBlue_03.webp",
+            "img4": "../img/pupilaRegular/CloudBlue_04.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -190,12 +190,12 @@
     {
         "id": "cloud-Green",
         "titulo": "Cloud Green",
-        "imagen": "../img/pupilaRegular/Cloud/CloudGreen.webp",
+        "imagen": "../img/pupilaRegular/CloudGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudGreen_01.jpg",
-            "img2": "../img/pupilaRegular/Cloud/CloudGreen_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudGreen_03.jpg",
-            "img4": "../img/pupilaRegular/Cloud/CloudGreen_04.webp"
+            "img1": "../img/pupilaRegular/CloudGreen_01.jpg",
+            "img2": "../img/pupilaRegular/CloudGreen_02.webp",
+            "img3": "../img/pupilaRegular/CloudGreen_03.jpg",
+            "img4": "../img/pupilaRegular/CloudGreen_04.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -207,11 +207,11 @@
     {
         "id": "cloud-Brown",
         "titulo": "Cloud Brown",
-        "imagen": "../img/pupilaRegular/Cloud/CloudBrown.webp",
+        "imagen": "../img/pupilaRegular/CloudBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudBrown_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudBrown_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudBrown_03.webp"
+            "img1": "../img/pupilaRegular/CloudBrown_01.webp",
+            "img2": "../img/pupilaRegular/CloudBrown_02.webp",
+            "img3": "../img/pupilaRegular/CloudBrown_03.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -223,11 +223,11 @@
     {
         "id": "cloud-Pink",
         "titulo": "Cloud Pink",
-        "imagen": "../img/pupilaRegular/Cloud/CloudPink.webp",
+        "imagen": "../img/pupilaRegular/CloudPink.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudPink_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudPink_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudPink_03.webp"
+            "img1": "../img/pupilaRegular/CloudPink_01.webp",
+            "img2": "../img/pupilaRegular/CloudPink_02.webp",
+            "img3": "../img/pupilaRegular/CloudPink_03.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -239,11 +239,11 @@
     {
         "id": "cloud-Violet",
         "titulo": "Cloud Violet",
-        "imagen": "../img/pupilaRegular/Cloud/CloudViolet.webp",
+        "imagen": "../img/pupilaRegular/CloudViolet.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudViolet_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudViolet_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudViolet_03.webp"
+            "img1": "../img/pupilaRegular/CloudViolet_01.webp",
+            "img2": "../img/pupilaRegular/CloudViolet_02.webp",
+            "img3": "../img/pupilaRegular/CloudViolet_03.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -255,11 +255,11 @@
     {
         "id": "cloud-Black",
         "titulo": "Cloud Black",
-        "imagen": "../img/pupilaRegular/Cloud/CloudBlack.webp",
+        "imagen": "../img/pupilaRegular/CloudBlack.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudBlack_01.webp",
-            "img2": "../img/pupilaRegular/Cloud/CloudBlack_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudBlack_03.webp"
+            "img1": "../img/pupilaRegular/CloudBlack_01.webp",
+            "img2": "../img/pupilaRegular/CloudBlack_02.webp",
+            "img3": "../img/pupilaRegular/CloudBlack_03.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -271,12 +271,12 @@
     {
         "id": "cloud-LightBlue",
         "titulo": "Cloud Light Blue",
-        "imagen": "../img/pupilaRegular/Cloud/CloudLightBlue.webp",
+        "imagen": "../img/pupilaRegular/CloudLightBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudLightBlue_02.jpg",
-            "img2": "../img/pupilaRegular/Cloud/CloudLightBlue_01.jpg",
-            "img3": "../img/pupilaRegular/Cloud/CloudLightBlue_03.jpg",
-            "img4": "../img/pupilaRegular/Cloud/CloudLightBlue_04.jpg"
+            "img1": "../img/pupilaRegular/CloudLightBlue_02.jpg",
+            "img2": "../img/pupilaRegular/CloudLightBlue_01.jpg",
+            "img3": "../img/pupilaRegular/CloudLightBlue_03.jpg",
+            "img4": "../img/pupilaRegular/CloudLightBlue_04.jpg"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -288,11 +288,11 @@
     {
         "id": "cloud-LightGreen",
         "titulo": "Cloud Light Green",
-        "imagen": "../img/pupilaRegular/Cloud/CloudLightGreen.webp",
+        "imagen": "../img/pupilaRegular/CloudLightGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudLightGreen_01.jpg",
-            "img2": "../img/pupilaRegular/Cloud/CloudLightGreen_02.jpg",
-            "img3": "../img/pupilaRegular/Cloud/CloudLightGreen_03.jpg"
+            "img1": "../img/pupilaRegular/CloudLightGreen_01.jpg",
+            "img2": "../img/pupilaRegular/CloudLightGreen_02.jpg",
+            "img3": "../img/pupilaRegular/CloudLightGreen_03.jpg"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -304,11 +304,11 @@
     {
         "id": "cloud-DeepGray",
         "titulo": "Cloud Deep Gray",
-        "imagen": "../img/pupilaRegular/Cloud/CloudDeepGray.webp",
+        "imagen": "../img/pupilaRegular/CloudDeepGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud/CloudDeepGray_01.jpg",
-            "img2": "../img/pupilaRegular/Cloud/CloudDeepGray_02.jpg",
-            "img3": "../img/pupilaRegular/Cloud/CloudDeepGray_03.webp"
+            "img1": "../img/pupilaRegular/CloudDeepGray_01.jpg",
+            "img2": "../img/pupilaRegular/CloudDeepGray_02.jpg",
+            "img3": "../img/pupilaRegular/CloudDeepGray_03.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -320,11 +320,11 @@
     {
         "id": "cloudR-Green",
         "titulo": "Cloud R Green",
-        "imagen": "../img/pupilaRegular/Cloud R/CloudRGreen.webp",
+        "imagen": "../img/pupilaRegular/CloudRGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud R/CloudRGreen_02.jpg",
-            "img2": "../img/pupilaRegular/Cloud R/CloudRGreen_01.webp",
-            "img3": "../img/pupilaRegular/Cloud R/CloudRGreen_03.jpg"
+            "img1": "../img/pupilaRegular/CloudRGreen_02.jpg",
+            "img2": "../img/pupilaRegular/CloudRGreen_01.webp",
+            "img3": "../img/pupilaRegular/CloudRGreen_03.jpg"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -336,11 +336,11 @@
     {
         "id": "cloudR-Gray",
         "titulo": "Cloud R Gray",
-        "imagen": "../img/pupilaRegular/Cloud R/CloudRGray.webp",
+        "imagen": "../img/pupilaRegular/CloudRGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud R/CloudRGray_01.webp",
-            "img2": "../img/pupilaRegular/Cloud R/CloudRGray_02.webp",
-            "img3": "../img/pupilaRegular/Cloud R/CloudRGray_03.jpg"
+            "img1": "../img/pupilaRegular/CloudRGray_01.webp",
+            "img2": "../img/pupilaRegular/CloudRGray_02.webp",
+            "img3": "../img/pupilaRegular/CloudRGray_03.jpg"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -352,12 +352,12 @@
     {
         "id": "cloudR-Brown",
         "titulo": "Cloud R Brown",
-        "imagen": "../img/pupilaRegular/Cloud R/CloudRBrown.webp",
+        "imagen": "../img/pupilaRegular/CloudRBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud R/CloudRBrown_02.webp",
-            "img2": "../img/pupilaRegular/Cloud R/CloudRBrown_01.webp",
-            "img3": "../img/pupilaRegular/Cloud R/CloudRBrown_03.webp",
-            "img4": "../img/pupilaRegular/Cloud R/CloudRBrown_04.webp"
+            "img1": "../img/pupilaRegular/CloudRBrown_02.webp",
+            "img2": "../img/pupilaRegular/CloudRBrown_01.webp",
+            "img3": "../img/pupilaRegular/CloudRBrown_03.webp",
+            "img4": "../img/pupilaRegular/CloudRBrown_04.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -369,10 +369,10 @@
     {
         "id": "cloudR-DeepGray",
         "titulo": "Cloud R Deep Gray",
-        "imagen": "../img/pupilaRegular/Cloud R/CloudRDeepGray.webp",
+        "imagen": "../img/pupilaRegular/CloudRDeepGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaRegular/Cloud R/CloudRDeepGray_01.webp",
-            "img2": "../img/pupilaRegular/Cloud R/CloudRDeepGray_02.jpg"
+            "img1": "../img/pupilaRegular/CloudRDeepGray_01.webp",
+            "img2": "../img/pupilaRegular/CloudRDeepGray_02.jpg"
         },
         "categoria": {
             "nombre": "Pupila regular",
@@ -384,11 +384,11 @@
     {
         "id": "orlandoN-Gray",
         "titulo": "Orlando N Gray",
-        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNGray.webp",
+        "imagen": "../img/pupilaPequeña/OrlandoNGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNGray_01.webp",
-            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNGray_02.webp",
-            "img3": "../img/pupilaPequeña/Orlando N/OrlandoNGray_03.webp"
+            "img1": "../img/pupilaPequeña/OrlandoNGray_01.webp",
+            "img2": "../img/pupilaPequeña/OrlandoNGray_02.webp",
+            "img3": "../img/pupilaPequeña/OrlandoNGray_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -400,10 +400,10 @@
     {
         "id": "orlandoN-Blue",
         "titulo": "Orlando N Blue",
-        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNBlue.webp",
+        "imagen": "../img/pupilaPequeña/OrlandoNBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNBlue_01.webp",
-            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNBlue_02.webp"
+            "img1": "../img/pupilaPequeña/OrlandoNBlue_01.webp",
+            "img2": "../img/pupilaPequeña/OrlandoNBlue_02.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -415,11 +415,11 @@
     {
         "id": "orlandoN-Emerald",
         "titulo": "Orlando N Emerald",
-        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald.webp",
+        "imagen": "../img/pupilaPequeña/OrlandoNEmerald.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_02.webp",
-            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_03.webp",
-            "img3": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_04.webp"
+            "img1": "../img/pupilaPequeña/OrlandoNEmerald_02.webp",
+            "img2": "../img/pupilaPequeña/OrlandoNEmerald_03.webp",
+            "img3": "../img/pupilaPequeña/OrlandoNEmerald_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -431,13 +431,13 @@
     {
         "id": "maldives-Blue",
         "titulo": "Maldives Blue",
-        "imagen": "../img/pupilaPequeña/Maldives/MaldivesBlue.webp",
+        "imagen": "../img/pupilaPequeña/MaldivesBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Maldives/MaldivesBlue_01.webp",
-            "img2": "../img/pupilaPequeña/Maldives/MaldivesBlue_02.webp",
-            "img3": "../img/pupilaPequeña/Maldives/MaldivesBlue_03.webp",
-            "img4": "../img/pupilaPequeña/Maldives/MaldivesBlue_04.webp",
-            "img5": "../img/pupilaPequeña/Maldives/MaldivesBlue_05.webp"
+            "img1": "../img/pupilaPequeña/MaldivesBlue_01.webp",
+            "img2": "../img/pupilaPequeña/MaldivesBlue_02.webp",
+            "img3": "../img/pupilaPequeña/MaldivesBlue_03.webp",
+            "img4": "../img/pupilaPequeña/MaldivesBlue_04.webp",
+            "img5": "../img/pupilaPequeña/MaldivesBlue_05.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -449,10 +449,10 @@
     {
         "id": "maldives-Gray",
         "titulo": "Maldives Gray",
-        "imagen": "../img/pupilaPequeña/Maldives/MaldivesGray.webp",
+        "imagen": "../img/pupilaPequeña/MaldivesGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Maldives/MaldviesGray_01.webp",
-            "img2": "../img/pupilaPequeña/Maldives/MaldivesGray_02.webp"
+            "img1": "../img/pupilaPequeña/MaldviesGray_01.webp",
+            "img2": "../img/pupilaPequeña/MaldivesGray_02.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -464,12 +464,12 @@
     {
         "id": "maldives-Green",
         "titulo": "Maldives Green",
-        "imagen": "../img/pupilaPequeña/Maldives/MaldivesGreen.webp",
+        "imagen": "../img/pupilaPequeña/MaldivesGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Maldives/MaldivesGreen_01.webp",
-            "img2": "../img/pupilaPequeña/Maldives/MaldivesGreen_02.jpg",
-            "img3": "../img/pupilaPequeña/Maldives/MaldivesGreen_03.webp",
-            "img4": "../img/pupilaPequeña/Maldives/MaldivesGreen_04.webp"
+            "img1": "../img/pupilaPequeña/MaldivesGreen_01.webp",
+            "img2": "../img/pupilaPequeña/MaldivesGreen_02.jpg",
+            "img3": "../img/pupilaPequeña/MaldivesGreen_03.webp",
+            "img4": "../img/pupilaPequeña/MaldivesGreen_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -481,13 +481,13 @@
     {
         "id": "brooklyn-Gray",
         "titulo": "Brooklyn Gray",
-        "imagen": "../img/pupilaPequeña/Brooklyn/BrooklynGray.webp",
+        "imagen": "../img/pupilaPequeña/BrooklynGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Brooklyn/BrooklynGray_01.webp",
-            "img2": "../img/pupilaPequeña/Brooklyn/BrooklynGray_02.webp",
-            "img3": "../img/pupilaPequeña/Brooklyn/BrookylnGray_03.webp",
-            "img4": "../img/pupilaPequeña/Brooklyn/BrooklynGray_04.webp",
-            "img5": "../img/pupilaPequeña/Brooklyn/BrooklynGray_05.webp"
+            "img1": "../img/pupilaPequeña/BrooklynGray_01.webp",
+            "img2": "../img/pupilaPequeña/BrooklynGray_02.webp",
+            "img3": "../img/pupilaPequeña/BrookylnGray_03.webp",
+            "img4": "../img/pupilaPequeña/BrooklynGray_04.webp",
+            "img5": "../img/pupilaPequeña/BrooklynGray_05.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -499,11 +499,11 @@
     {
         "id": "rain-Blue",
         "titulo": "Blue Rain",
-        "imagen": "../img/pupilaPequeña/Rain/BlueRain.webp",
+        "imagen": "../img/pupilaPequeña/BlueRain.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Rain/BlueRain_04.webp",
-            "img2": "../img/pupilaPequeña/Rain/BlueRain_01.webp",
-            "img3": "../img/pupilaPequeña/Rain/BlueRain_02.jpg"
+            "img1": "../img/pupilaPequeña/BlueRain_04.webp",
+            "img2": "../img/pupilaPequeña/BlueRain_01.webp",
+            "img3": "../img/pupilaPequeña/BlueRain_02.jpg"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -515,14 +515,14 @@
     {
         "id": "gogh-Gray",
         "titulo": "Gogh Gray",
-        "imagen": "../img/pupilaPequeña/Gogh/GoghGray.webp",
+        "imagen": "../img/pupilaPequeña/GoghGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Gogh/CloudGray_01.webp",
-            "img2": "../img/pupilaPequeña/Gogh/GoghGray_02.webp",
-            "img3": "../img/pupilaPequeña/Gogh/GoghGray_03.webp",
-            "img4": "../img/pupilaPequeña/Gogh/GoghGray_04.jpg",
-            "img5": "../img/pupilaPequeña/Gogh/GoghGray_05.png",
-            "img6": "../img/pupilaPequeña/Gogh/GoghGray_06.png"
+            "img1": "../img/pupilaPequeña/CloudGray_01.webp",
+            "img2": "../img/pupilaPequeña/GoghGray_02.webp",
+            "img3": "../img/pupilaPequeña/GoghGray_03.webp",
+            "img4": "../img/pupilaPequeña/GoghGray_04.jpg",
+            "img5": "../img/pupilaPequeña/GoghGray_05.png",
+            "img6": "../img/pupilaPequeña/GoghGray_06.png"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -534,13 +534,13 @@
     {
         "id": "gogh-LightBlue",
         "titulo": "Gogh Light Blue",
-        "imagen": "../img/pupilaPequeña/Gogh/GoghLightBlue_02.webp",
+        "imagen": "../img/pupilaPequeña/GoghLightBlue_02.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Gogh/GoghLightBlue_01.webp",
-            "img2": "../img/pupilaPequeña/Gogh/GoghLightBlue_03.webp",
-            "img3": "../img/pupilaPequeña/Gogh/GoghLightBlue_02.webp",
-            "img4": "../img/pupilaPequeña/Gogh/GoghLightBlue_04.webp",
-            "img5": "../img/pupilaPequeña/Gogh/GoghLightBlue_05.webp"
+            "img1": "../img/pupilaPequeña/GoghLightBlue_01.webp",
+            "img2": "../img/pupilaPequeña/GoghLightBlue_03.webp",
+            "img3": "../img/pupilaPequeña/GoghLightBlue_02.webp",
+            "img4": "../img/pupilaPequeña/GoghLightBlue_04.webp",
+            "img5": "../img/pupilaPequeña/GoghLightBlue_05.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -552,12 +552,12 @@
     {
         "id": "goghN-Gray",
         "titulo": "Gogh N Gray",
-        "imagen": "../img/pupilaPequeña/Gogh N/GoghNGray.webp",
+        "imagen": "../img/pupilaPequeña/GoghNGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/Gogh N/GoghNGray_01.webp",
-            "img2": "../img/pupilaPequeña/Gogh N/GoghNGray_02.webp",
-            "img3": "../img/pupilaPequeña/Gogh N/GoghNGray_03.webp",
-            "img4": "../img/pupilaPequeña/Gogh N/GoghNGray_04.webp"
+            "img1": "../img/pupilaPequeña/GoghNGray_01.webp",
+            "img2": "../img/pupilaPequeña/GoghNGray_02.webp",
+            "img3": "../img/pupilaPequeña/GoghNGray_03.webp",
+            "img4": "../img/pupilaPequeña/GoghNGray_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -569,11 +569,11 @@
     {
         "id": "goghN-Blue",
         "titulo": "Gogh N Blue",
-        "imagen": "../img/pupilaPequeña/Gogh N/GoghNBlue.webp",
+        "imagen": "../img/pupilaPequeña/GoghNBlue.webp",
         "carrusel": {
-            "img2": "../img/pupilaPequeña/Gogh N/GoghNBlue_02.webp",
-            "img3": "../img/pupilaPequeña/Gogh N/GoghNBlue_03.webp",
-            "img4": "../img/pupilaPequeña/Gogh N/GoghNBlue_04.webp"
+            "img2": "../img/pupilaPequeña/GoghNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/GoghNBlue_03.webp",
+            "img4": "../img/pupilaPequeña/GoghNBlue_04.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -585,11 +585,11 @@
     {
         "id": "newYork-Brown",
         "titulo": "New York Brown",
-        "imagen": "../img/pupilaPequeña/New York/NewYorkBrown.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York/NewYorkBrown_01.webp",
-            "img2": "../img/pupilaPequeña/New York/NewYorkBrown_02.webp",
-            "img3": "../img/pupilaPequeña/New York/NewYorkBrown_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkBrown_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkBrown_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkBrown_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -601,11 +601,11 @@
     {
         "id": "newYork-Blue",
         "titulo": "New York Blue",
-        "imagen": "../img/pupilaPequeña/New York/NewYorkBlue.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York/NewYorkBlue_01.webp",
-            "img2": "../img/pupilaPequeña/New York/NewYorkBlue_02.webp",
-            "img3": "../img/pupilaPequeña/New York/NewYorkBlue_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkBlue_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkBlue_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkBlue_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -617,11 +617,11 @@
     {
         "id": "newYork-Gray",
         "titulo": "New York Gray",
-        "imagen": "../img/pupilaPequeña/New York/NewYorkGray.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York/NewYorkGray_01.webp",
-            "img2": "../img/pupilaPequeña/New York/NewYorkGray_02.webp",
-            "img3": "../img/pupilaPequeña/New York/NewYorkGray_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkGray_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkGray_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkGray_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -633,11 +633,11 @@
     {
         "id": "newYork-Green",
         "titulo": "New York Green",
-        "imagen": "../img/pupilaPequeña/New York/NewYorkGreen.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York/NewYorkGreen_01.webp",
-            "img2": "../img/pupilaPequeña/New York/NewYorkGreen_02.webp",
-            "img3": "../img/pupilaPequeña/New York/NewYorkGreen_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkGreen_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkGreen_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkGreen_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -649,11 +649,11 @@
     {
         "id": "newYorkN-Gray",
         "titulo": "New York N Gray",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNGray.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNGray.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNGray_03.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNGray_01.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNGray_02.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNGray_03.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNGray_01.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNGray_02.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -665,11 +665,11 @@
     {
         "id": "newYorkN-Blue",
         "titulo": "New York N Blue",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNBlue.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNBlue.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNBlue_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNBlue_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNBlue_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNBlue_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNBlue_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -681,11 +681,11 @@
     {
         "id": "newYorkN-Green",
         "titulo": "New York N Green",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNGreen.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNGreen_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNGreen_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNGreen_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNGreen_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNGreen_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNGreen_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -697,11 +697,11 @@
     {
         "id": "newYorkN-Brown",
         "titulo": "New York N Brown",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNBrown.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNBrown.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNBrown_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNBrown_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNBrown_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNBrown_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNBrown_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNBrown_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -713,11 +713,11 @@
     {
         "id": "newYorkN-Jade",
         "titulo": "New York N Jade",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNJade.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNJade.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNJade_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNJade_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNJade_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNJade_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNJade_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNJade_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -729,11 +729,11 @@
     {
         "id": "newYorkN-Hazel",
         "titulo": "New York N Hazel",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNHazel.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNHazel.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNHazel_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNHazel_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNHazel_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNHazel_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNHazel_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNHazel_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
@@ -745,11 +745,11 @@
     {
         "id": "newYorkN-DeepGreen",
         "titulo": "New York N Deep Green",
-        "imagen": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen.webp",
+        "imagen": "../img/pupilaPequeña/NewYorkNDeepGreen.webp",
         "carrusel": {
-            "img1": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_01.webp",
-            "img2": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_02.webp",
-            "img3": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_03.webp"
+            "img1": "../img/pupilaPequeña/NewYorkNDeepGreen_01.webp",
+            "img2": "../img/pupilaPequeña/NewYorkNDeepGreen_02.webp",
+            "img3": "../img/pupilaPequeña/NewYorkNDeepGreen_03.webp"
         },
         "categoria": {
             "nombre": "Pupila pequeña",
