@@ -513,6 +513,252 @@
         "stock": "disponible"
     },
     {
+        "id": "gogh-Gray",
+        "titulo": "Gogh Gray",
+        "imagen": "../img/pupilaPequeña/Gogh/GoghGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Gogh/CloudGray_01.webp",
+            "img2": "../img/pupilaPequeña/Gogh/GoghGray_02.webp",
+            "img3": "../img/pupilaPequeña/Gogh/GoghGray_03.webp",
+            "img4": "../img/pupilaPequeña/Gogh/GoghGray_04.jpg",
+            "img5": "../img/pupilaPequeña/Gogh/GoghGray_05.png",
+            "img6": "../img/pupilaPequeña/Gogh/GoghGray_06.png"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "gogh-LightBlue",
+        "titulo": "Gogh Light Blue",
+        "imagen": "../img/pupilaPequeña/Gogh/GoghLightBlue_02.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Gogh/GoghLightBlue_01.webp",
+            "img2": "../img/pupilaPequeña/Gogh/GoghLightBlue_03.webp",
+            "img3": "../img/pupilaPequeña/Gogh/GoghLightBlue_02.webp",
+            "img4": "../img/pupilaPequeña/Gogh/GoghLightBlue_04.webp",
+            "img5": "../img/pupilaPequeña/Gogh/GoghLightBlue_05.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "goghN-Gray",
+        "titulo": "Gogh N Gray",
+        "imagen": "../img/pupilaPequeña/Gogh N/GoghNGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Gogh N/GoghNGray_01.webp",
+            "img2": "../img/pupilaPequeña/Gogh N/GoghNGray_02.webp",
+            "img3": "../img/pupilaPequeña/Gogh N/GoghNGray_03.webp",
+            "img4": "../img/pupilaPequeña/Gogh N/GoghNGray_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "goghN-Blue",
+        "titulo": "Gogh N Blue",
+        "imagen": "../img/pupilaPequeña/Gogh N/GoghNBlue.webp",
+        "carrusel": {
+            "img2": "../img/pupilaPequeña/Gogh N/GoghNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/Gogh N/GoghNBlue_03.webp",
+            "img4": "../img/pupilaPequeña/Gogh N/GoghNBlue_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYork-Brown",
+        "titulo": "New York Brown",
+        "imagen": "../img/pupilaPequeña/New York/NewYorkBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York/NewYorkBrown_01.webp",
+            "img2": "../img/pupilaPequeña/New York/NewYorkBrown_02.webp",
+            "img3": "../img/pupilaPequeña/New York/NewYorkBrown_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYork-Blue",
+        "titulo": "New York Blue",
+        "imagen": "../img/pupilaPequeña/New York/NewYorkBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York/NewYorkBlue_01.webp",
+            "img2": "../img/pupilaPequeña/New York/NewYorkBlue_02.webp",
+            "img3": "../img/pupilaPequeña/New York/NewYorkBlue_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYork-Gray",
+        "titulo": "New York Gray",
+        "imagen": "../img/pupilaPequeña/New York/NewYorkGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York/NewYorkGray_01.webp",
+            "img2": "../img/pupilaPequeña/New York/NewYorkGray_02.webp",
+            "img3": "../img/pupilaPequeña/New York/NewYorkGray_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYork-Green",
+        "titulo": "New York Green",
+        "imagen": "../img/pupilaPequeña/New York/NewYorkGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York/NewYorkGreen_01.webp",
+            "img2": "../img/pupilaPequeña/New York/NewYorkGreen_02.webp",
+            "img3": "../img/pupilaPequeña/New York/NewYorkGreen_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Gray",
+        "titulo": "New York N Gray",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNGray_03.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNGray_01.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNGray_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Blue",
+        "titulo": "New York N Blue",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNBlue_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNBlue_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNBlue_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Green",
+        "titulo": "New York N Green",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNGreen_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNGreen_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNGreen_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Brown",
+        "titulo": "New York N Brown",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNBrown_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNBrown_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNBrown_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Jade",
+        "titulo": "New York N Jade",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNJade.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNJade_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNJade_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNJade_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-Hazel",
+        "titulo": "New York N Hazel",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNHazel.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNHazel_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNHazel_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNHazel_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "newYorkN-DeepGreen",
+        "titulo": "New York N Deep Green",
+        "imagen": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_01.webp",
+            "img2": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_02.webp",
+            "img3": "../img/pupilaPequeña/New York N/NewYorkNDeepGreen_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
         "id": "accesorio-01",
         "titulo": "Kit aplicador",
         "imagen": "./img/accesorios/kitAplicador.gif",
