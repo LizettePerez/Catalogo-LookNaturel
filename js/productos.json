@@ -194,11 +194,236 @@
         "carrusel": {
             "img1": "../img/pupilaRegular/Cloud/CloudGreen_01.jpg",
             "img2": "../img/pupilaRegular/Cloud/CloudGreen_02.webp",
-            "img3": "../img/pupilaRegular/Cloud/CloudGreen_03.jpg"
+            "img3": "../img/pupilaRegular/Cloud/CloudGreen_03.jpg",
+            "img4": "../img/pupilaRegular/Cloud/CloudGreen_04.webp"
         },
         "categoria": {
             "nombre": "Pupila regular",
             "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Brown",
+        "titulo": "Cloud Brown",
+        "imagen": "../img/pupilaRegular/Cloud/CloudBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudBrown_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudBrown_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudBrown_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Pink",
+        "titulo": "Cloud Pink",
+        "imagen": "../img/pupilaRegular/Cloud/CloudPink.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudPink_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudPink_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudPink_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Violet",
+        "titulo": "Cloud Violet",
+        "imagen": "../img/pupilaRegular/Cloud/CloudViolet.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudViolet_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudViolet_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudViolet_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-Black",
+        "titulo": "Cloud Black",
+        "imagen": "../img/pupilaRegular/Cloud/CloudBlack.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudBlack_01.webp",
+            "img2": "../img/pupilaRegular/Cloud/CloudBlack_02.webp",
+            "img3": "../img/pupilaRegular/Cloud/CloudBlack_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-LightBlue",
+        "titulo": "Cloud Light Blue",
+        "imagen": "../img/pupilaRegular/Cloud/CloudLightBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudLightBlue_02.jpg",
+            "img2": "../img/pupilaRegular/Cloud/CloudLightBlue_01.jpg",
+            "img3": "../img/pupilaRegular/Cloud/CloudLightBlue_03.jpg",
+            "img4": "../img/pupilaRegular/Cloud/CloudLightBlue_04.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-LightGreen",
+        "titulo": "Cloud Light Green",
+        "imagen": "../img/pupilaRegular/Cloud/CloudLightGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudLightGreen_01.jpg",
+            "img2": "../img/pupilaRegular/Cloud/CloudLightGreen_02.jpg",
+            "img3": "../img/pupilaRegular/Cloud/CloudLightGreen_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloud-DeepGray",
+        "titulo": "Cloud Deep Gray",
+        "imagen": "../img/pupilaRegular/Cloud/CloudDeepGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud/CloudDeepGray_01.jpg",
+            "img2": "../img/pupilaRegular/Cloud/CloudDeepGray_02.jpg",
+            "img3": "../img/pupilaRegular/Cloud/CloudDeepGray_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloudR-Green",
+        "titulo": "Cloud R Green",
+        "imagen": "../img/pupilaRegular/Cloud R/CloudRGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud R/CloudRGreen_02.jpg",
+            "img2": "../img/pupilaRegular/Cloud R/CloudRGreen_01.webp",
+            "img3": "../img/pupilaRegular/Cloud R/CloudRGreen_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloudR-Gray",
+        "titulo": "Cloud R Gray",
+        "imagen": "../img/pupilaRegular/Cloud R/CloudRGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud R/CloudRGray_01.webp",
+            "img2": "../img/pupilaRegular/Cloud R/CloudRGray_02.webp",
+            "img3": "../img/pupilaRegular/Cloud R/CloudRGray_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloudR-Brown",
+        "titulo": "Cloud R Brown",
+        "imagen": "../img/pupilaRegular/Cloud R/CloudRBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud R/CloudRBrown_02.webp",
+            "img2": "../img/pupilaRegular/Cloud R/CloudRBrown_01.webp",
+            "img3": "../img/pupilaRegular/Cloud R/CloudRBrown_03.webp",
+            "img4": "../img/pupilaRegular/Cloud R/CloudRBrown_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "cloudR-DeepGray",
+        "titulo": "Cloud R Deep Gray",
+        "imagen": "../img/pupilaRegular/Cloud R/CloudRDeepGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/Cloud R/CloudRDeepGray_01.webp",
+            "img2": "../img/pupilaRegular/Cloud R/CloudRDeepGray_02.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "orlandoN-Gray",
+        "titulo": "Orlando N Gray",
+        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNGray_01.webp",
+            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNGray_02.webp",
+            "img3": "../img/pupilaPequeña/Orlando N/OrlandoNGray_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "orlandoN-Blue",
+        "titulo": "Orlando N Blue",
+        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNBlue_01.webp",
+            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNBlue_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "orlandoN-Emerald",
+        "titulo": "Orlando N Emerald",
+        "imagen": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_02.webp",
+            "img2": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_03.webp",
+            "img3": "../img/pupilaPequeña/Orlando N/OrlandoNEmerald_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
         },
         "precio": 25000,
         "stock": "disponible"
