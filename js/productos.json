@@ -429,13 +429,134 @@
         "stock": "disponible"
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "maldives-Blue",
+        "titulo": "Maldives Blue",
+        "imagen": "../img/pupilaPequeña/Maldives/MaldivesBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Maldives/MaldivesBlue_01.webp",
+            "img2": "../img/pupilaPequeña/Maldives/MaldivesBlue_02.webp",
+            "img3": "../img/pupilaPequeña/Maldives/MaldivesBlue_03.webp",
+            "img4": "../img/pupilaPequeña/Maldives/MaldivesBlue_04.webp",
+            "img5": "../img/pupilaPequeña/Maldives/MaldivesBlue_05.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "maldives-Gray",
+        "titulo": "Maldives Gray",
+        "imagen": "../img/pupilaPequeña/Maldives/MaldivesGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Maldives/MaldviesGray_01.webp",
+            "img2": "../img/pupilaPequeña/Maldives/MaldivesGray_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "maldives-Green",
+        "titulo": "Maldives Green",
+        "imagen": "../img/pupilaPequeña/Maldives/MaldivesGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Maldives/MaldivesGreen_01.webp",
+            "img2": "../img/pupilaPequeña/Maldives/MaldivesGreen_02.jpg",
+            "img3": "../img/pupilaPequeña/Maldives/MaldivesGreen_03.webp",
+            "img4": "../img/pupilaPequeña/Maldives/MaldivesGreen_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "brooklyn-Gray",
+        "titulo": "Brooklyn Gray",
+        "imagen": "../img/pupilaPequeña/Brooklyn/BrooklynGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Brooklyn/BrooklynGray_01.webp",
+            "img2": "../img/pupilaPequeña/Brooklyn/BrooklynGray_02.webp",
+            "img3": "../img/pupilaPequeña/Brooklyn/BrookylnGray_03.webp",
+            "img4": "../img/pupilaPequeña/Brooklyn/BrooklynGray_04.webp",
+            "img5": "../img/pupilaPequeña/Brooklyn/BrooklynGray_05.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "rain-Blue",
+        "titulo": "Blue Rain",
+        "imagen": "../img/pupilaPequeña/Rain/BlueRain.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Rain/BlueRain_04.webp",
+            "img2": "../img/pupilaPequeña/Rain/BlueRain_01.webp",
+            "img3": "../img/pupilaPequeña/Rain/BlueRain_02.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Kit aplicador",
+        "imagen": "./img/accesorios/kitAplicador.gif",
+        "carrusel": {
+            "img1": "./img/accesorios/kitAplicador.gif",
+            "img2": "./img/accesorios/kitAplicador_02.webp",
+            "img3": "./img/accesorios/kitAplicador_03.webp"
+        },
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
         },
-        "precio": 1000
+        "precio": 1500,
+        "stock": "disponible"
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Estuche pequeño",
+        "imagen": "./img/accesorios/estuchePequeño.gif",
+        "carrusel": {
+            "img1": "./img/accesorios/estuchePequeño.gif",
+            "img2": "./img/accesorios/estuchePequeño_02.webp"
+        },
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 2500,
+        "stock": "disponible"
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Estuche grande",
+        "imagen": "./img/accesorios/estucheGrande.gif",
+        "carrusel": {
+            "img1": "./img/accesorios/estucheGrande.gif",
+            "img2": "./img/accesorios/estucheGrande_02.webp",
+            "img3": "./img/accesorios/estucheGrande_03.webp"
+        },
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000,
+        "stock": "disponible"
     }
 ]
