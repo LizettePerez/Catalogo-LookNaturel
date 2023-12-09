@@ -759,6 +759,195 @@
         "stock": "disponible"
     },
     {
+        "id": "Rio-01",
+        "titulo": "Rio",
+        "imagen": "../img/pupilaRegular/Rio.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Rio_01.jpg",
+            "img2": "../img/pupilaPequeña/Rio_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "Dimona-01",
+        "titulo": "Dimona",
+        "imagen": "../img/pupilaRegular/Dimona.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/Dimona_01.webp",
+            "img2": "../img/pupilaPequeña/Dimona_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "broadway-Gray",
+        "titulo": "Broadway Gray",
+        "imagen": "../img/pupilaRegular/BroadwayGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/BroadwayGray_01.jpg",
+            "img2": "../img/pupilaRegular/BroadwayGray_02.jpg",
+            "img3": "../img/pupilaRegular/BroadwayGray_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "broadway-Blue",
+        "titulo": "Broadway Blue",
+        "imagen": "../img/pupilaRegular/BroadwayBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaRegular/BroadwayBlue_01.webp",
+            "img2": "../img/pupilaRegular/BroadwayBlue_02.png",
+            "img3": "../img/pupilaRegular/BroadwayBlue_03.jpg"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "monet-Green",
+        "titulo": "Monet Green",
+        "imagen": "../img/pupilaPequeña/MonetGreen.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetGreen_01.webp",
+            "img2": "../img/pupilaPequeña/MonetGreen_02.webp",
+            "img3": "../img/pupilaPequeña/MonetGreen_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "monet-Blue",
+        "titulo": "Monet Blue",
+        "imagen": "../img/pupilaPequeña/MonetBlue.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetBlue_01.webp",
+            "img2": "../img/pupilaPequeña/MonetBlue_02.webp",
+            "img3": "../img/pupilaPequeña/MonetBlue_03.webp",
+            "img4": "../img/pupilaPequeña/MonetBlue_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "monet-Gray",
+        "titulo": "Monet Gray",
+        "imagen": "../img/pupilaPequeña/MonetGray.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetGray_01.webp",
+            "img2": "../img/pupilaPequeña/MonetGray_02.webp",
+            "img3": "../img/pupilaPequeña/MonetGray_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "monet-Pink",
+        "titulo": "Monet Pink",
+        "imagen": "../img/pupilaPequeña/MonetPink.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetPink_01.webp",
+            "img2": "../img/pupilaPequeña/MonetPink_02.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "monet-Violet",
+        "titulo": "Monet Violet",
+        "imagen": "../img/pupilaPequeña/MonetViolet.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetViolet_01.webp",
+            "img2": "../img/pupilaPequeña/MonetViolet_02.webp",
+            "img3": "../img/pupilaPequeña/MonetViolet_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "mercury-Gray",
+        "titulo": "Mercury Gray",
+        "imagen": "./img/pupilaPequeña/MercuryGray.webp",
+        "carrusel": {
+            "img1": "./img/pupilaPequeña/MercuryGray_01.webp",
+            "img2": "./img/pupilaPequeña/MercuryGray_02.webp",
+            "img3": "./img/pupilaPequeña/MercuryGray_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "mercury-Blue",
+        "titulo": "Mercury Blue",
+        "imagen": "./img/pupilaPequeña/MercuryBlue.webp",
+        "carrusel": {
+            "img1": "./img/pupilaPequeña/MercuryBlue_01.webp",
+            "img2": "./img/pupilaPequeña/MercuryBlue_02.webp",
+            "img3": "./img/pupilaPequeña/MecuryBlue_03.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "mercury-Brown",
+        "titulo": "Mercury Brown",
+        "imagen": "./img/pupilaPequeña/MercuryBrown.webp",
+        "carrusel": {
+            "img1": "./img/pupilaPequeña/MercuryBrown_01.webp",
+            "img2": "./img/pupilaPequeña/MercuryBrown_002.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
         "id": "accesorio-01",
         "titulo": "Kit aplicador",
         "imagen": "./img/accesorios/kitAplicador.gif",
