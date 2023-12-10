@@ -185,7 +185,7 @@
             "id": "pupila-regular"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "cloud-Green",
@@ -250,7 +250,7 @@
             "id": "pupila-regular"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "cloud-Black",
@@ -299,7 +299,7 @@
             "id": "pupila-regular"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "cloud-DeepGray",
@@ -529,7 +529,7 @@
             "id": "pupila-pequeña"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "gogh-LightBlue",
@@ -676,7 +676,7 @@
             "id": "pupila-pequeña"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "newYorkN-Green",
@@ -692,7 +692,7 @@
             "id": "pupila-pequeña"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "newYorkN-Brown",
@@ -834,7 +834,7 @@
             "id": "pupila-pequeña"
         },
         "precio": 25000,
-        "stock": "disponible"
+        "stock": "agotado"
     },
     {
         "id": "monet-Blue",
@@ -901,6 +901,37 @@
         "stock": "disponible"
     },
     {
+        "id": "monet-Brown",
+        "titulo": "Monet Brown",
+        "imagen": "../img/pupilaPequeña/MonetBrown.webp",
+        "carrusel": {
+            "img1": "../img/pupilaPequeña/MonetBrown_01.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila pequeña",
+            "id": "pupila-pequeña"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
+        "id": "mars-01",
+        "titulo": "Mars",
+        "imagen": "./img/pupilaRegular/Mars_01.webp",
+        "carrusel": {
+            "img1": "./img/pupilaRegular/Mars_03.webp",
+            "img2": "./img/pupilaRegular/Mars_02.webp",
+            "img3": "./img/pupilaRegular/Mars.webp",
+            "img4": "./img/pupilaRegular/Mars_04.webp"
+        },
+        "categoria": {
+            "nombre": "Pupila regular",
+            "id": "pupila-regular"
+        },
+        "precio": 25000,
+        "stock": "disponible"
+    },
+    {
         "id": "mercury-Gray",
         "titulo": "Mercury Gray",
         "imagen": "./img/pupilaPequeña/MercuryGray.webp",
@@ -949,18 +980,17 @@
     },
     {
         "id": "accesorio-01",
-        "titulo": "Kit aplicador",
-        "imagen": "./img/accesorios/kitAplicador.gif",
+        "titulo": "Estuche pequeño",
+        "imagen": "./img/accesorios/estuchePequeño.gif",
         "carrusel": {
-            "img1": "./img/accesorios/kitAplicador.gif",
-            "img2": "./img/accesorios/kitAplicador_02.webp",
-            "img3": "./img/accesorios/kitAplicador_03.webp"
+            "img1": "./img/accesorios/estuchePequeño.gif",
+            "img2": "./img/accesorios/estuchePequeño_02.webp"
         },
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
         },
-        "precio": 1500,
+        "precio": 2500,
         "stock": "disponible"
     },
     {
